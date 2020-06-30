@@ -3,6 +3,4 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
-
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I'm a data scientist with a special interest in the intersection of experimentation, causal inference and machine learning. These interests come together in the [Causal ML](https://github.com/uber/causalml) library that I've coauthored as a part of the core development team. For an overview of some of my other work in the area of causal inference, I recommend checking out [this Uber Eng blog post](https://eng.uber.com/causal-inference-at-uber/). Professionally, my passion is to combine abstract theoretical ideas with practical implementations to achieve a positive impact in the world. Outside of work, I like to spend time on my bike in the nature, preferably in the mountains.
