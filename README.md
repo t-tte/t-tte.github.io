@@ -1,1 +1,1 @@
-This repo contains the source code to generate [totte.cc](totte.cc). The content under \_posts is owned by me. Otherwise, everything you see here is forked and minimally customised from [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+This repo contains the source code to generate [totte.cc](totte.cc). The content under \_pages, \_posts and asssets is owned by me. Otherwise, everything you see here is forked and minimally customised from [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
