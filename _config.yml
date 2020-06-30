@@ -16,7 +16,7 @@
 title: totte.cc
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  The website for Totte Harinen. A data scientist with an interest in experimentation, causal inference and endurance sports. 
+  The website for Totte Harinen. A data scientist with an interest in experimentation, causal inference, machine learning and endurance sports. 
 twitter_username: totteh
 github_username: t-tte
 minimal_mistakes_skin: mint
@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Totte Harinen"
   avatar : "/assets/images/bio-photo-resampled.jpg"
-  bio    : "Data scientist with an interest in experimentation, causal inference and endurance sports."
+  bio    : "Data scientist with an interest in experimentation, causal inference, machine learning and endurance sports."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
