@@ -131,7 +131,7 @@ activity_df.loc['2020-06-30', 'power'].plot()
 ```
 As it happens, the above returns what looks like exactly the right data:
 
-![interval plot](https://github.com/t-tte/t-tte.github.io/blob/master/assets/images/intervals_plot.png)!
+![interval plot](https://github.com/t-tte/t-tte.github.io/blob/master/assets/images/intervals_plot.png)
 
 The DataFrame can now be used to perform all kinds of analyses. In the next installment, I'll describe how we can use historical power data to track how our training and performance have progressed over time.
 
