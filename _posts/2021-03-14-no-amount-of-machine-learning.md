@@ -1,4 +1,13 @@
-# No Amount of Machine Learning Will Tell You Why a Training Plan Works
+---
+title: "No Amount of Machine Learning Will Tell You Why a Training Plan Works"
+date: 2021-03-14
+categories:
+  - causal inference
+tags:
+  - causal inference
+  - endurance training
+  - sports science
+---
 
 ## The Emergence of Big Data in Endurance Training
 Endurance training is ripe for disruption. In recent years, there's been a sharp increase in the amount of data that amateur athletes can capture. For example, if you are a cyclist who uses some kind of structured training plan, you typically capture some data of your daily activities, including sleep, movement and in some cases nutrition. You may also record various types of body measurements, heart rate data, body temperature, and so on. When you do workouts, you additionally capture power, cadence, pedaling dynamics... the list goes on.
