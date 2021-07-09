@@ -2,7 +2,7 @@
 title: "Heterogeneous treatment effect estimation with observational data"
 date: 2020-07-01
 categories:
-  - blog
+  - causal inference
 tags:
   - causal inference
   - causal ml
