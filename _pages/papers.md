@@ -17,7 +17,7 @@ author_profile: true
 * [Causal Inference and Machine Learning in Practice with EconML and CausalML: Industrial Use Cases at Microsoft, TripAdvisor, Uber. Lecture-Style Tutorial, KDD 2021.](https://causal-machine-learning.github.io/kdd2021-tutorial/)
 
 ## Preprints and white papers
-* [Harinen, T., Filipowicz, A., Hakimi, S., Iliev, R., Klenk, M. and Sumner, E., 2021. Machine learning reveals how personalized climate communication can both succeed and backfire. arXiv preprint arXiv:2109.05104.](https://arxiv.org/pdf/2109.05104.pdf)
+* [Harinen, T., Filipowicz, A., Hakimi, S., Iliev, R., Klenk, M. and Sumner, E. (2021). Machine learning reveals how personalized climate communication can both succeed and backfire. arXiv preprint arXiv:2109.05104.](https://arxiv.org/pdf/2109.05104.pdf)
 * [Chen, H., Harinen, T., Lee, J. Y., Yung, M., & Zhao, Z. (2020). CausalML: Python Package for Causal Machine Learning. arXiv preprint arXiv:2002.11631.](https://arxiv.org/abs/2002.11631)
 * [Zhao, Z., Zhang, Y., Harinen, T., & Yung, M. (2020). Feature Selection Methods for Uplift Modeling. arXiv preprint arXiv:2005.03447.](https://arxiv.org/pdf/2005.03447.pdf)
 
