@@ -11,9 +11,13 @@ author_profile: true
 * [Harinen, T. (2018). Mutual manipulability and causal inbetweenness. Synthese, 195(1), 35-54.](https://link.springer.com/article/10.1007/s11229-014-0564-5)
 
 ## Recent conferences
-* [Causal Inference and Machine Learning in Practice with EconML and CausalML: Industrial Use Cases at Microsoft, TripAdvisor, Uber. Lecture-Style Tutorial, KDD 2021](https://causal-machine-learning.github.io/kdd2021-tutorial/)
+* [CausalML: A Python package for uplift modeling and causal inference with machine learning. Causal Data Science Meeting 2021](https://www.causalscience.org/meeting/program/day-2/)
+* [CausalML: A Python Package for Uplift Modeling and Causal Inference with Machine Learning. MIT Code 2021](https://ide.mit.edu/wp-content/uploads/2021/05/CODE@MIT-2021-Poster-Presentations-Days-1-and-2.pdf?x20971)
+* [Panel: Causal ML in Industry. Microsoft Research Summit 2021.](https://www.microsoft.com/en-us/research/video/panel-causal-ml-in-industry/)
+* [Causal Inference and Machine Learning in Practice with EconML and CausalML: Industrial Use Cases at Microsoft, TripAdvisor, Uber. Lecture-Style Tutorial, KDD 2021.](https://causal-machine-learning.github.io/kdd2021-tutorial/)
 
 ## Preprints and white papers
+* [Harinen, T., Filipowicz, A., Hakimi, S., Iliev, R., Klenk, M. and Sumner, E., 2021. Machine learning reveals how personalized climate communication can both succeed and backfire. arXiv preprint arXiv:2109.05104.](https://arxiv.org/pdf/2109.05104.pdf)
 * [Chen, H., Harinen, T., Lee, J. Y., Yung, M., & Zhao, Z. (2020). CausalML: Python Package for Causal Machine Learning. arXiv preprint arXiv:2002.11631.](https://arxiv.org/abs/2002.11631)
 * [Zhao, Z., Zhang, Y., Harinen, T., & Yung, M. (2020). Feature Selection Methods for Uplift Modeling. arXiv preprint arXiv:2005.03447.](https://arxiv.org/pdf/2005.03447.pdf)
 
