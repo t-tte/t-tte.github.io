@@ -20,5 +20,5 @@ Below are some references for the talk I'm giving at KDD in the [1st Workshop on
 
 ## Software
 
-* [CausalML PNS bounds](https://github.com/uber/causalml/blob/master/causalml/optimize/pns.py)Allows the user to calculate the probability of benefit (probability of necessity and sufficiency).
+* [CausalML PNS bounds](https://github.com/uber/causalml/blob/master/causalml/optimize/pns.py): Allows the user to calculate the probability of benefit (probability of necessity and sufficiency).
 * [CausalML unit selection](https://github.com/uber/causalml/blob/master/causalml/optimize/unit_selection.py): Enables the user to assign weights to different responder types.
