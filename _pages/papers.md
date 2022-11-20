@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## Papers, proceedings and conferences
+* [Harinen, T., Filipowicz, A., Hakimi, S., Iliev, R., Klenk, M. and Sumner, E. (2022). Machine learning reveals how personalized climate communication can both succeed and backfire. NeurIPS Workshop on Causal Machine Learning for Real-World Impact](https://openreview.net/pdf?id=FAQFDIUQPpw)
 * [Harinen T, Iliev R, Mueller S, Li A, Zhang C. Combining experimental and observational studies to estimate individual treatment effects: applications to customer journey optimization. 1st Workshop on End-End Customer Journey Optimization. KDD 2022.](https://sites.google.com/view/user-journey-kdd/)
 * [Zhao Z and Harinen T. CausalML: A Python Package for Uplift Modeling and Causal Inference Empowered by Machine Learning Methods. Causal Inference and Machine Learning in Practice: Challenges Across Industry. JSM 2022.](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/AbstractDetails.cfm?abstractid=322654)
 * [Yanxia Zhang, Francine Chen, Shabnam Hakimi, Totte Harinen, Alex Filipowicz, Yan-Ying Chen, Rumen Iliev, Nikos Arechiga, Kalani Murakami, Kent Lyons, Charlene Wu and Matt Klenk. ConjointNet: Enhancing Conjoint Analysis for Preference Prediction with Representation Learning. M-PREF. IJCAI 2022.](https://drive.google.com/file/d/10UcPmKn7ZCeT2Pbq4lsLIPBskq7w7qpy/view)
@@ -21,9 +22,7 @@ author_profile: true
 * [Harinen, T. (2018). Mutual manipulability and causal inbetweenness. Synthese, 195(1), 35-54.](https://link.springer.com/article/10.1007/s11229-014-0564-5)
 
 ## Preprints and white papers
-* [Harinen, T., Filipowicz, A., Hakimi, S., Iliev, R., Klenk, M. and Sumner, E. (2021). Machine learning reveals how personalized climate communication can both succeed and backfire. arXiv preprint arXiv:2109.05104.](https://arxiv.org/pdf/2109.05104.pdf)
 * [Chen, H., Harinen, T., Lee, J. Y., Yung, M., & Zhao, Z. (2020). CausalML: Python Package for Causal Machine Learning. arXiv preprint arXiv:2002.11631.](https://arxiv.org/abs/2002.11631)
-* [Zhao, Z., Zhang, Y., Harinen, T., & Yung, M. (2020). Feature Selection Methods for Uplift Modeling. arXiv preprint arXiv:2005.03447.](https://arxiv.org/pdf/2005.03447.pdf)
 
 ## Software
 * [CausalML: A Python Package for Uplift Modeling and Causal Inference with ML](https://github.com/uber/causalml)
