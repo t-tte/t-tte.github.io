@@ -24,7 +24,7 @@ And that’s the key to the definition of “consistency”. Because the context
 
 From this perspective, consistency becomes a counterfactual concept. To be “consistent” in endurance training is to sustain a load such that:
 
-if you trained less, you would miss out on some adaptations
-if you trained more, you would get injured
+* if you trained less, you would miss out on some adaptations
+* if you trained more, you would get injured
 
 The above definition ignores some other important considerations such as rest, recovery, nutrition, etc. When these variables are included in the definition, selecting the best training intervention becomes a counterfactual multi-objective optimization problem. When athletes and their coaches manage to solve this problem successfully, it gets called “consistency”.
