@@ -81,9 +81,6 @@ footer:
     - label: "Strava"
       icon: "fab fa fa-bicycle"
       url: "https://www.strava.com/athletes/totteh"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/imtotte"
 
 defaults:
   # _posts
